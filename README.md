@@ -1,2 +1,7 @@
 # Hello-world
-Testing Repository
+
+HELLO!
+BONJOUR!
+BUENOUS DIAS!
+NI HAO!
+KONICHIWA!
